@@ -124,7 +124,7 @@ footer {
 }
 
 .banner-item {
-    background: #fef1b6 url(./img/banners/food.png) no-repeat right;
+    background: #fef1b6 url(../img/banners/food.png) no-repeat right;
     padding: 68px;
     border-radius: 10px;
     box-shadow: 0 7px 12px 0 rgba(158, 158, 163, 0.1);
