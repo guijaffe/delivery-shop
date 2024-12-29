@@ -88,7 +88,8 @@ const restFunc = () => {
 			renderRests(restArray);
 		}, 1000);
 	}
-};
+};test
+
 
 modalFunc();
 restFunc();
